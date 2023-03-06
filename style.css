@@ -1,0 +1,114 @@
+img{
+    margin-top: 180px;
+    margin-left: 600px;
+}
+.box{
+    margin-left: 350px;
+    width: 350px;
+    margin-top: -5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+.cointainer{
+    border-style: none;
+    background-color: rgb(171, 166, 166);
+    width: 990px;
+    height: 100px;
+    margin-left: 250px;
+    margin-top:-5px;
+}
+.buton{
+    margin-left: 375px;
+    margin-top: 10px;
+}
+.buton2{
+    margin-left: 10px;
+}
+.yazı{
+    margin-left: 400px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.buton3{
+    margin:2px
+
+}
+
+.cointainer1{
+    border-style: solid;
+    width: 330px;
+    height: 100px;
+    margin-left: 250px;
+    margin-top:5px;
+    background-color: aqua;
+}
+.cointainer2{
+    border-style: solid;
+    width: 300px;
+    height: 100px;
+    margin-left: 335px;
+    margin-top:-3px;
+    background-color: rgb(151, 236, 236);
+    
+
+}
+.cointainer3{
+    border-style: solid;
+    width: 340px;
+    height: 100px;
+    margin-left: 305px;
+    margin-top: -2px;
+    background-color: rgb(113, 189, 204);
+
+}
+.yazı1{
+    margin-top: -90px;
+    margin-left: 95px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.lınk{
+    margin-left: 105px;
+    position: relative;
+    top: -10px;
+}
+.lınk1{
+    margin-left: 110px;
+    position: relative;
+    top: -5px;
+}
+.box2-lınk{
+    margin-left: 105px;
+    position: relative;
+    top: -90px;
+    
+}
+.mail{
+    margin-left: 85px;
+    position: relative;
+    top: -10px;
+    width: 180px;
+}
+.buton4{
+    margin-left: 85px;
+    position: relative;
+    top: -5px;
+    width: 120px;
+    border-bottom: 10px;
+}   
+
+.arsıv{
+    position: relative;
+    left: 8px;
+    top: -5px;
+}
+
+.footer{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 60px;
+    margin-left: 660px;
+}
+
